@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P4Parametros</string>
+    <string name="inombre">Ingresa tu nombre</string>
+    <string name="hnombre">ingresa un nombre</string>
+    <string name="saluda">Saludar!!</string>
+</resources>
